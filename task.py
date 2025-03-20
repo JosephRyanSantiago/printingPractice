@@ -1,3 +1,3 @@
 # print("Hello world!\nHello world!\nHello world!")
 # print("Hello" + " "+ "Joe!")
-input("What is your name?")
+print("Hello " + input("What is your name?") + "!")
