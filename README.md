@@ -1,3 +1,3 @@
 # printingPractice
-Working with variables to manage data
+Working with variables to manage data\n
 project: Band Name Generator
